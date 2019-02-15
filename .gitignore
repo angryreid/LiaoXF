@@ -3,6 +3,8 @@
 *.so
 *.egg
 *.egg-info
+venv
+dist
 build
 target
 .idea
